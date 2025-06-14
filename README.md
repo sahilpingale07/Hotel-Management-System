@@ -3,6 +3,9 @@
 🏨 Java Hotel Management System
 The Java Hotel Management System is a desktop-based application developed using Core Java, Swing, AWT, and MySQL. It is designed to streamline hotel operations such as check-in/check-out, room management, employee information, and customer details. The system provides an interactive GUI, secure authentication, and real-time database connectivity to enhance the management process of small to medium-sized hotels.
 
+Project Demo Video:
+https://drive.google.com/drive/folders/1asD8Oyw6LGqLg1nnVvNZ8n5thJAeoWZe?usp=drive_link
+
 🚀 Key Features
 🔐 Login & Authentication
 Secure login system for admin and staff access.
